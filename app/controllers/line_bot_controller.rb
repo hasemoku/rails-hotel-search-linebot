@@ -197,3 +197,6 @@ class LineBotController < ApplicationController
       }
     end
 end
+# rails s と ngrol http 3000 の実行
+# ngrok 実行時に表示された楽天APIとLINEBotに入力
+# LINEBotの方はhttps://8d8a7d7025ee.ngrok.io/callbackのように、末尾に/callbackをつける
